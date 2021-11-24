@@ -31,6 +31,9 @@ I'm FE Engineer
 
 <br/>
 
+
+<h3>💻 Now I'm Learning... 💻</h3>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
