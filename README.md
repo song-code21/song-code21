@@ -26,13 +26,17 @@ I'm FE Engineer
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <br>
+ 
+ 
+ ﹏﹏﹏﹏﹏﹏﹏
+ 
+ <h3>💻 Now I'm Learning... 💻</h3>
+ 
 
 </div>
 
 <br/>
 
-
-<h3>💻 Now I'm Learning... 💻</h3>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
