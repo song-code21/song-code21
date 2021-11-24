@@ -30,7 +30,7 @@ I'm FE Engineer
  
  ﹏﹏﹏﹏﹏﹏﹏
  
- <h3>💻 Now I'm Learning... 💻</h3>
+ <h3>💻 Now Learning... 💻</h3>
  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 </div>
