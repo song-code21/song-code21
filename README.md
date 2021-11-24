@@ -25,7 +25,7 @@ I'm FE Engineer
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/NPM-CA4245?style=flat-square&logo=NPM&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NPM-CB0001?style=flat-square&logo=NPM&logoColor=white"/>
 <br>
  
  
