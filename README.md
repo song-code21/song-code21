@@ -1,7 +1,7 @@
 <div align = "center">
 
 <br/>
-<h3>Cindy:)🥳</h3><br/>
+<h3>:)🥳</h3><br/>
 Hello, I'm hakyoung.<br/>
 I'm FE Engineer
 
