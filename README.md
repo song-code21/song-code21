@@ -28,6 +28,7 @@ I'm FE Engineer
 <img src="https://img.shields.io/badge/NPM-CB0001?style=flat-square&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
  
 <br>
  
@@ -35,7 +36,6 @@ I'm FE Engineer
  ﹏﹏﹏﹏﹏﹏﹏
  
  <h3>💻 Now Learning... 💻</h3>
- <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 </div>
 
